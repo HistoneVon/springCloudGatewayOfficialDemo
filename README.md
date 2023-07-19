@@ -486,4 +486,4 @@ Process finished with exit code 0
 
 ## 参考文献
 
-* [Java 项目中使用 Resilience4j 框架实现隔断机制/断路器 - 知乎 (zhihu.com)](
+* [Java 项目中使用 Resilience4j 框架实现隔断机制/断路器 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/440113610)
